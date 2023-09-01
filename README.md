@@ -1,4 +1,5 @@
-#Blaze
+# Blaze
+
 ![Blaze Logo](./Blaze.png)
 
 Blaze is a powerful web 3 customer engagement tool that allows you to connect with your audience in innovative ways. Whether you're looking to enhance user experiences or improve customer interactions, Blaze has you covered.
